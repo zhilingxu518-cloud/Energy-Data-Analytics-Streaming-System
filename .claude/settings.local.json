@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(chmod +w *)",
-      "Bash(python -c ' *)",
-      "Bash(python _add_explanations.py)"
-    ]
-  }
-}
