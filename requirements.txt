@@ -1,0 +1,12 @@
+streamlit
+pydeck
+pandas
+paho-mqtt
+requests
+numpy
+jupysql
+duckdb
+duckdb-engine
+geoalchemy2
+shapely
+geopandas
